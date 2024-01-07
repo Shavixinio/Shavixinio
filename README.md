@@ -1,4 +1,4 @@
-Web developer
+Web developer, Discord bot maker
 -------------
 
 ### Skills
