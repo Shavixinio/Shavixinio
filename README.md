@@ -1,5 +1,5 @@
 Web developer, Discord bot maker
-Currently working on random projects, including my bot for the server "The Fluffy Castle"
+Currently working on nothing
 -------------
 
 ### Skills
