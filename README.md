@@ -6,13 +6,19 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=shavixinio&show_icons=true&theme=midnight-purple)
 
-```js
+# Devices
+- **CPU**: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+- **RAM**: 16 GB 3.20Ghz
+- **OS**: Windows 11 Pro
+- **GPU**: ASUS RTX 3070 8GB
+- **Mouse**: Logitech G203 Prodigy (Previously Steelseries Rival 650 Wireless, but randomly broke, fuck Steelseries)
+- **Keyboard**: SPC Gear GK630K Tournament Kailh Red Pudding Edition
+- **Headphones**: Steelseries Arctis 5 (Built-in mic also broke for no reason. Again, fuck Steelseries)
+- **Phone**: Samsung Galaxy A52
+- **Tablet** Samsung Galaxy Tab S7
+- **Consoles**: Xbox One X, Xbox 360
 
-let Shavix = {
-  name: "Dawid",
-  DateOfBirth: "12/06/2008"
-};
-```
-### Support Me
+Other PC specs not included because I forgot the name/Don't know
+# Support Me
 
 <a href="https://www.ko-fi.com/shavix"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
