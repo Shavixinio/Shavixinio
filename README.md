@@ -1,11 +1,18 @@
-<b>My GitHub Stats</b>
+![status](https://api.statusbadges.me/badge/status/902233519210782750)
+![playing](https://api.statusbadges.me/badge/playing/902233519210782750)
+![vscode](https://api.statusbadges.me/badge/vscode/902233519210782750)
 
-<a href="http://www.github.com/Shavixinio"><img src="https://github-readme-stats.vercel.app/api?username=Shavixinio&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="Shavixinio's GitHub stats" /></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,mysql,discord,discordjs,bots,vscode,windows)](https://skillicons.dev)
 
-<a href="http://www.github.com/Shavixinio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shavixinio&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![My stats](https://github-readme-stats.vercel.app/api?username=shavixinio&show_icons=true&theme=midnight-purple)
 
-<a href="https://github.com/Shavixinio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shavixinio&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+```js
 
+let Shavix = {
+  name: "Dawid",
+  DateOfBirth: "12/06/2008"
+};
+```
 ### Support Me
 
 <a href="https://www.ko-fi.com/shavix"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
