@@ -13,7 +13,8 @@
 - **GPU**: ASUS RTX 3070 8GB
 - **Mouse**: Logitech G203 Prodigy (Previously Steelseries Rival 650 Wireless, but randomly broke, fuck Steelseries)
 - **Keyboard**: SPC Gear GK630K Tournament Kailh Red Pudding Edition
-- **Headphones**: Steelseries Arctis 5 (Built-in mic also broke for no reason. Again, fuck Steelseries)
+- **Headphones**: Steelseries Arctis 5
+- **Microphone**: Genesis Radium 600 G2
 - **Phone**: Samsung Galaxy A52
 - **Tablet** Samsung Galaxy Tab S7
 - **Consoles**: Xbox One X, Xbox 360
