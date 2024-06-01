@@ -1,10 +1,14 @@
-![status](https://api.statusbadges.me/badge/status/902233519210782750)
-![playing](https://api.statusbadges.me/badge/playing/902233519210782750)
-![vscode](https://api.statusbadges.me/badge/vscode/902233519210782750)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,mysql,discord,discordjs,bots,vscode,windows)](https://skillicons.dev)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=shavixinio&show_icons=true&theme=midnight-purple)
+<p align="center">
+  <img src="https://api.statusbadges.me/badge/status/902233519210782750">
+  <img src="https://api.statusbadges.me/badge/playing/902233519210782750">
+  <img src="https://api.statusbadges.me/badge/vscode/902233519210782750">
+   <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,discord,discordjs,vscode,windows" alt="skills"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shavixinio&show_icons=true&theme=midnight-purple">
+</p>
 
 # Devices
 - **CPU**: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
