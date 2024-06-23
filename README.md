@@ -13,7 +13,7 @@
 # Devices
 - **CPU**: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
 - **RAM**: 16 GB 3.20Ghz
-- **OS**: Windows 11 Pro
+- **OS**: Windows 11 Pro, Fedora 40
 - **GPU**: ASUS RTX 3070 8GB
 - **Mouse**: Logitech G203 Prodigy (Previously Steelseries Rival 650 Wireless, but randomly broke, fuck Steelseries)
 - **Keyboard**: SPC Gear GK630K Tournament Kailh Red Pudding Edition
