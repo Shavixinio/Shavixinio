@@ -15,7 +15,7 @@
 - **RAM**: 16 GB 3.20Ghz
 - **OS**: Windows 11 Pro, Fedora 40
 - **GPU**: ASUS RTX 3070 8GB
-- **Mouse**: Logitech G203 Prodigy (Previously Steelseries Rival 650 Wireless, but randomly broke, fuck Steelseries)
+- **Mouse**: Logitech G203 Prodigy
 - **Keyboard**: SPC Gear GK630K Tournament Kailh Red Pudding Edition
 - **Headphones**: Steelseries Arctis 5
 - **Microphone**: Genesis Radium 600 G2
@@ -23,7 +23,6 @@
 - **Tablet** Samsung Galaxy Tab S7
 - **Consoles**: Xbox One X, Xbox 360
 
-Other PC specs not included because I forgot the name/Don't know
 # Support Me
 
 <a href="https://www.ko-fi.com/shavix"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
