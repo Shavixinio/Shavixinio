@@ -10,7 +10,7 @@
 
 # Stats
 
-<img width="auto" src="https://github-readme-stats.vercel.app/api?username=Shavixinio&theme=omni&show_icons=true"/>
+<img width="auto" src="https://github-readme-stats.vercel.app/api?username=Shavixinio&theme=github_dark&show_icons=true"/>
 
 # Devices
     CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
