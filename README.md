@@ -2,7 +2,7 @@
 
 - <img width="16" src="https://cdn.discordapp.com/emojis/1293567410808295434.webp?size=96&quality=lossless"/> Student from Poland
 - <img width="16" src="https://cdn.discordapp.com/emojis/851461487498493952.webp?size=96&quality=lossless"/> I enjoy making bots using [Discord.js](https://discord.js.org/)
-- 🎮 I like playing [osu!taiko](https://osu.ppy.sh/), [Valorant](https://playvalorant.com) and [MELTY BLOOD](https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/)
+- 🎮 I like playing [osu!](https://osu.ppy.sh/users/23214736) (Taiko), [Valorant](https://playvalorant.com) and [MELTY BLOOD](https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/)
 
 # Discord
 
