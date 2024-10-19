@@ -6,7 +6,7 @@
 
 # Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/647404005168906240)](https://discord.com/users/647404005168906240)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/647404005168906240?theme=dark&bg=484f80&animated=true&animatedDecoration=true&hideDiscrim=true&borderRadius=30px&idleMessage=Away%20doing%20something%20else)](https://discord.com/users/647404005168906240)
 
 # Stats
 
