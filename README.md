@@ -11,17 +11,3 @@
 # Stats
 
 <img width="auto" src="https://github-readme-stats.vercel.app/api?username=Shavixinio&theme=github_dark&show_icons=true"/>
-
-# Devices
-    CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
-    RAM: 16 GB 3.20Ghz
-    OS: Windows 11 Pro, EndeavourOS
-    GPU: ASUS RTX 3070 8GB
-    Mouse: Logitech G203 Prodigy
-    Keyboard: SPC Gear GK630K Tournament Kailh Red Pudding Edition
-    Headphones: Steelseries Arctis 5
-    Microphone: Genesis Radium 600 G2
-    Phone: Samsung Galaxy A52
-    Tablet Samsung Galaxy Tab S7
-    Consoles: Xbox One X, Xbox 360
-    
